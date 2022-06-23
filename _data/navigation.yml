@@ -2,11 +2,11 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Education
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Medical"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Orphanages"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Blind School
   url: "/documentation/"
   side: left
   dropdown:
@@ -59,14 +59,14 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: Sport
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Agriculture"
   url: "/search/"
   side: right
 

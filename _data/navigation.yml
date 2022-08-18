@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Patients"
-    url: "/design/grid/"
+    url: "/design/post-test/"
   - title: "Hospital Equipment"
     url: "/design/typography/typography/"
 

@@ -3,15 +3,19 @@
   side: left
 
 - title: Education
-  url: "/getting-started/"
   side: left
+  dropdown:
+  - title: "Secondary Schools"  
+    url: "/secondary-school/"
+  - title: "Universities"
+    url: "/universities/"
 
 - title: "Medical"
   url: "/design/"
   side: left
   dropdown:
   - title: "Patients"
-    url: "/design/post-test/"
+    url: "/design/medical/"
   - title: "Hospital Equipment"
     url: "/design/typography/typography/"
 
@@ -20,7 +24,7 @@
   side: left
 
 - title: Blind School
-  url: "/documentation/"
+  url: "/blind-school/"
   side: left
 
 - title: Sport

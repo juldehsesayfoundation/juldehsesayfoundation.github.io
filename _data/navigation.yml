@@ -6,7 +6,7 @@
   side: left
   dropdown:
   - title: "Secondary Schools"  
-    url: "/secondary-school/"
+    url: "/secondary-schools/"
   - title: "Universities"
     url: "/universities/"
 
